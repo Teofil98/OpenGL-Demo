@@ -1,0 +1,54 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl cgaxis_models_115_37_01
+Ns 50.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.002510 0.002510 0.002510
+Ke 0.000000 0.000000 0.000000
+Ni 1.010000
+d 1.000000
+illum 2
+map_Bump objects/Trees/Tree2/cgaxis_models_115_37_01_bump.jpg
+map_Kd objects/Trees/Tree2/cgaxis_models_115_37_01.jpg
+map_d objects/Trees/Tree2/cgaxis_models_115_37_01_opacity.jpg
+
+newmtl cgaxis_models_115_37_02
+Ns 50.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.002510 0.002510 0.002510
+Ke 0.000000 0.000000 0.000000
+Ni 1.010000
+d 1.000000
+illum 2
+map_Bump objects/Trees/Tree2/cgaxis_models_115_37_02_bump.jpg
+map_Kd objects/Trees/Tree2/cgaxis_models_115_37_02.jpg
+map_d objects/Trees/Tree2/cgaxis_models_115_37_02_opacity.jpg
+
+newmtl cgaxis_models_115_37_03
+Ns 50.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.002510 0.002510 0.002510
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Bump objects/Trees/Tree2/cgaxis_models_115_37_03_bump.jpg
+map_Kd objects/Trees/Tree2/cgaxis_models_115_37_03.jpg
+map_d objects/Trees/Tree2/alpha.png
+
+newmtl cgaxis_models_115_37_04
+Ns 50.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.002510 0.002510 0.002510
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Bump objects/Trees/Tree2/cgaxis_models_115_37_04_bump.jpg
+map_Kd objects/Trees/Tree2/cgaxis_models_115_37_04.jpg
+map_d objects/Trees/Tree2/alpha.png
